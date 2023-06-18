@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+center
+{
+	background-color: lightgray;
+}
+p
+{
+	font-size: 30px;
+}
+#btn
+{
+	background-color: red;
+	color: white;
+	padding: 20px 30px;
+	border-radius: 15px;
+	font-weight: bold;
+}
