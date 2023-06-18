@@ -1,7 +1,12 @@
 /*  your css code here. If applicable */
 center
 {
-	background-color: lightgray;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	margin-left: 80px;
+	margin-right: 80px;
+	box-sizzing: border-box;
+	box-shadow: 0px 4px 4px 0px;
 }
 p
 {
@@ -9,9 +14,26 @@ p
 }
 #btn
 {
-	background-color: red;
+	background-color: #FE625A;
+	border: solid #FE625A;
 	color: white;
-	padding: 20px 30px;
+	padding: 20px 25px;
 	border-radius: 15px;
 	font-weight: bold;
+	margin-bottom: 15px;
+	font-size: 25px;
+}
+img
+{
+	padding-top: 30px;
+}
+h1
+{
+	font-size: 50px;
+}
+*
+{
+	margin: 0px;
+	padding: 0px;
+	
 }
